@@ -2,10 +2,10 @@
 
 ## Personal Information
 
-**Name:** Chan Chun Hei  (King)
-**Headline:** HKU BASc(FinTech) | Major in Financial Technology, 2nd major in Entrepreneurship, Design and Innovation | Minor in Computer Science | Small Unmanned Aircraft Remote Pilot Advance Certificate
-**Location:** Hong Kong
-**Profile URL:** [linkedin.com/in/kotlkingchan](https://linkedin.com/in/kotlkingchan)
+**Name:** Chan Chun Hei  (King) <br>
+**Headline:** HKU BASc(FinTech) | Major in Financial Technology, 2nd major in Entrepreneurship, Design and Innovation | Minor in Computer Science | Small Unmanned Aircraft Remote Pilot Advance Certificate <br>
+**Location:** Hong Kong <br>
+**LinkedIn Profile URL:** [linkedin.com/in/kotlkingchan](https://linkedin.com/in/kotlkingchan)
 
 ---
 
@@ -117,5 +117,5 @@ I support our team as we organize academic conferences, publish journals, and fa
 
 ## Contact Information
 
-**Email:** kotl20010304@gmail.com
+**Email:** kotl20010304@gmail.com <br>
 **Phone:** +852 68236150
